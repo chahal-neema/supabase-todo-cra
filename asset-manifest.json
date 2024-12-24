@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supabase-todo-cra/static/css/main.c22ef4ae.css",
+    "main.js": "/supabase-todo-cra/static/js/main.7fae8111.js",
+    "static/js/952.37e34af5.chunk.js": "/supabase-todo-cra/static/js/952.37e34af5.chunk.js",
+    "index.html": "/supabase-todo-cra/index.html",
+    "main.c22ef4ae.css.map": "/supabase-todo-cra/static/css/main.c22ef4ae.css.map",
+    "main.7fae8111.js.map": "/supabase-todo-cra/static/js/main.7fae8111.js.map",
+    "952.37e34af5.chunk.js.map": "/supabase-todo-cra/static/js/952.37e34af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c22ef4ae.css",
+    "static/js/main.7fae8111.js"
+  ]
+}
